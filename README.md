@@ -6,8 +6,13 @@ This repository contains a comprehensive machine learning and deep learning proj
 
 Features
 
+
 Data Preprocessing: Cleans and prepares Marathi text data by removing stopwords, punctuation, and unnecessary whitespace.
+
 Feature Extraction: Uses TF-IDF vectorization to convert text into numerical features suitable for machine learning models.
+
 Machine Learning Model: Implements Logistic Regression for initial classification and evaluation.
+
 Deep Learning Model: Utilizes an LSTM-based model to capture complex patterns and contextual information in the text.
+
 Ensemble Model: Combines both Logistic Regression and LSTM models using an ensemble approach to enhance classification performance.
